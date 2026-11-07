@@ -1,0 +1,13 @@
+Customer ID,Customer Name,Gender,Age,City,Join Date,Purchase Amount
+C001,Asha,F,24.0,Hyderabad,2026/10/01,2500.0
+C002,Rahul,male,29.0,hyderabad ,01-10-2026,3200.0
+C003,Meena,Female,,Bengaluru,Oct 03 2026,1800.0
+C004,Arjun,M,31.0,MUMBAI,2026-10-04,4100.0
+C005,Sara,f,27.0,Chennai,05/10/2026,
+C006,Kiran,Male,35.0,Pune,2026-10-06,5200.0
+C006,Kiran,Male,35.0,Pune,2026-10-06,5200.0
+C007,Divya, female ,22.0, hyderabad,07-10-2026,2100.0
+C008,Vikram,M,150.0,Delhi,2026/10/08,6000.0
+C009,Nisha,,26.0,BENGALURU ,09 Oct 2026,2900.0
+C010,Imran,male,30.0,Chennai,2026-10-10,3300.0
+C011,Pooja,F,28.0,Mumbai,11/10/2026,2700.0

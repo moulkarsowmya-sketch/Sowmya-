@@ -1,0 +1,12 @@
+customer_id,customer_name,gender,age,city,join_date,purchase_amount
+C001,Asha,Female,24,Hyderabad,01-10-2026,2500.0
+C002,Rahul,Male,29,Hyderabad,01-10-2026,3200.0
+C003,Meena,Female,28,Bengaluru,03-10-2026,1800.0
+C004,Arjun,Male,31,Mumbai,04-10-2026,4100.0
+C005,Sara,Female,27,Chennai,05-10-2026,3050.0
+C006,Kiran,Male,35,Pune,06-10-2026,5200.0
+C007,Divya,Female,22,Hyderabad,07-10-2026,2100.0
+C008,Vikram,Male,28,Delhi,08-10-2026,6000.0
+C009,Nisha,Unknown,26,Bengaluru,09-10-2026,2900.0
+C010,Imran,Male,30,Chennai,10-10-2026,3300.0
+C011,Pooja,Female,28,Mumbai,11-10-2026,2700.0

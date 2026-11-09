@@ -1,0 +1,25 @@
+Products above 500
+product_name | price
+--------------------------------------------------
+Laptop | 55000.0
+Desk | 8000.0
+Chair | 4500.0
+Mouse | 700.0
+
+Total quantity by product
+product_name | total_quantity
+--------------------------------------------------
+Notebook | 8
+Mouse | 3
+Laptop | 1
+Chair | 1
+Desk | 1
+
+Customer revenue view
+customer_id | customer_name | total_revenue
+--------------------------------------------------
+1 | Asha | 57600.0
+3 | Meena | 8000.0
+2 | Rahul | 4500.0
+4 | Arjun | 0
+5 | Sara | 0
